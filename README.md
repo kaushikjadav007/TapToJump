@@ -15,4 +15,4 @@ Tap To Jump Endless 2D Game
 # Game Over
 <img src="ScreenShots/3.png" width="250" height="512">
 
-# [Gameplay Video]((https://youtu.be/PaGfL1j4-YQ)](https://youtu.be/PaGfL1j4-YQ))
+# [Gameplay Video](https://youtu.be/PaGfL1j4-YQ)](https://youtu.be/PaGfL1j4-YQ)
