@@ -6,11 +6,11 @@ Tap To Jump Endless 2D Game
 
 
 # ScreenShots
-
+# Menu
 <img src="ScreenShots/1.png" width="250" height="512">
 
-# Interstial
+# In Game
 <img src="ScreenShots/2.png" width="250" height="512">
 
-# Reawarded Ad
+# Game Over
 <img src="ScreenShots/3.png" width="250" height="512">
