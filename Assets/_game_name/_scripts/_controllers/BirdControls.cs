@@ -76,7 +76,7 @@ public class BirdControls : MonoBehaviour
 
     void _EditorInput()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
         {
             _Jump();
         }
@@ -162,6 +162,7 @@ public class BirdControls : MonoBehaviour
     void _ResetOnReplay()
     {
         transform.position = Vector3.zero;
+        transform.rotation = Quaternion.identity;
         m_rb.bodyType = RigidbodyType2D.Static;
         m_idele.enabled = true;
         m_flying.SetActive(false);
